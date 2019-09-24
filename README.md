@@ -1,6 +1,7 @@
 # Python Lesson
 ## Author 
-Lena 
+Lena Pimpertz
 ## Date
-2019-09-24
+2019-09-24 Tuesday
+
 
